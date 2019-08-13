@@ -42,7 +42,7 @@ namespace WebOnline.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-05A9RNB\\SQLEXPRESS; Database=MyPham;Integrated Security=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-LJVPMQO\\SQLEXPRESS; Database=MyPham;Integrated Security=True;");
             }
         }
 
