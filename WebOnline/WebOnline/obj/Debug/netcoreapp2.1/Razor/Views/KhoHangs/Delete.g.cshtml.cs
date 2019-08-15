@@ -139,12 +139,12 @@ using WebOnline.Models;
             WriteLiteral("\r\n        </dd>\r\n\r\n    </dl>\r\n\r\n    ");
             EndContext();
             BeginContext(858, 214, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f09cdf192c6e4b1c8d975d61b1abd576", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ecd9ee9b1a534b3fb006955a0301629e", async() => {
                 BeginContext(884, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(894, 39, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "01802231d7ba48f4a80cdcb42540c4d7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "170a97cf121b4bd988bcfa5172931099", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -169,7 +169,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\r\n        <input type=\"submit\" value=\"Xóa\" class=\"btn btn-default\" /> <br /> <br />\r\n        ");
                 EndContext();
                 BeginContext(1026, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "129d7c53350f4bc480db750089bc4691", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6424a655916f4896b3f9a2f7110465ed", async() => {
                     BeginContext(1048, 7, true);
                     WriteLiteral("Quay về");
                     EndContext();

@@ -100,7 +100,7 @@ using WebOnline.Models;
             WriteLiteral("\r\n\r\n                <div class=\"box\">\r\n\r\n                    <h1>Thông tin giao hàng</h1>\r\n                    <div class=\"nav flex-column flex-md-row nav-pills text-center\">");
             EndContext();
             BeginContext(938, 185, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9d2d5ba433c4e3a977a0be6f5fb87ad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "79798527b86e4508891acf97a70956a3", async() => {
                 BeginContext(1044, 75, true);
                 WriteLiteral("  <i class=\"fa fa-map-marker\">                      </i>Thông tin giao hàng");
                 EndContext();
@@ -122,7 +122,7 @@ using WebOnline.Models;
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             EndContext();
             BeginContext(1123, 165, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce9f983930f74afe9b199e8fb1cf358f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6fc37f7a145843348aa7cd671bab08aa", async() => {
                 BeginContext(1226, 58, true);
                 WriteLiteral("<i class=\"fa fa-eye\">                  </i>Hóa đơn của bạn");
                 EndContext();
@@ -162,7 +162,7 @@ using WebOnline.Models;
                         ");
             EndContext();
             BeginContext(1830, 2541, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b22da97b776f4e28b82a1e21bdec67f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c6373ff3d9cf4c39b2ab72bd011f74d7", async() => {
                 BeginContext(1895, 368, true);
                 WriteLiteral(@"
                         <div class=""content py-3"">
@@ -234,7 +234,7 @@ WriteAttributeValue("", 3219, kh.DiaChi, 3219, 10, false);
                             ");
                 EndContext();
                 BeginContext(4031, 136, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d88c3cd3795049c09c14f7c4ff363d57", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e736b96afb8b412f930c2a60ec3c8cf4", async() => {
                     BeginContext(4112, 51, true);
                     WriteLiteral("<i class=\"fa fa-chevron-left\"></i>Quay lại giỏ hàng");
                     EndContext();
@@ -295,7 +295,7 @@ WriteAttributeValue("", 3219, kh.DiaChi, 3219, 10, false);
             WriteLiteral("                        <div class=\"alert alert-danger\" style=\"text-align:center\"> ");
             EndContext();
             BeginContext(4562, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da082eb4c1b84ac099a0ae9c6f2da68a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6f4fc5d844941f3b7e20fe286ec1008", async() => {
                 BeginContext(4613, 39, true);
                 WriteLiteral("Bạn cần đăng nhập để tiếp tục mua hàng ");
                 EndContext();
@@ -322,7 +322,7 @@ WriteAttributeValue("", 3219, kh.DiaChi, 3219, 10, false);
             WriteLiteral("                        <div class=\"box-footer d-flex justify-content-between\">\r\n                            ");
             EndContext();
             BeginContext(4775, 136, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "664c4baf53a44e0aa27fd5f6eb1cb5b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2164b3f35d714930a3dfc3885a0d14b3", async() => {
                 BeginContext(4856, 51, true);
                 WriteLiteral("<i class=\"fa fa-chevron-left\"></i>Quay lại giỏ hàng");
                 EndContext();

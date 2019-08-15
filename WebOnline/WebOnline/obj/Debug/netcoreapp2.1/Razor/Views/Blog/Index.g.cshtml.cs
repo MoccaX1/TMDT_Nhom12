@@ -108,7 +108,7 @@ using WebOnline.Models;
                     <div class=""image""><a href=""post.html"">");
             EndContext();
             BeginContext(1516, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "6aabb2ab9d9e4d4d9e7e3aeb859c13b9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "24b60c46eb914b8796d590dd362ca09c", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -130,7 +130,7 @@ using WebOnline.Models;
                     <p class=""read-more"">");
             EndContext();
             BeginContext(1876, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b4195403cd9548c6a246d474c23e5baa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7e867d9e2b194da0a7323e0b93344415", async() => {
                 BeginContext(1946, 8, true);
                 WriteLiteral("Xem tiếp");
                 EndContext();
@@ -160,7 +160,7 @@ using WebOnline.Models;
                     <p class=""author-category"">Bởi ");
             EndContext();
             BeginContext(2216, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c02bce0a18814131bc46931e2bb7ce5b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "40160f50bb364cb7b6a422bf7561ab94", async() => {
                 BeginContext(2262, 11, true);
                 WriteLiteral(" John Slim ");
                 EndContext();
@@ -184,7 +184,7 @@ using WebOnline.Models;
             WriteLiteral(" trong <a href=\"\">Skincare</a></p>\r\n                    <hr>\r\n                    <p class=\"date-comments\">");
             EndContext();
             BeginContext(2384, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6ae55d9d6ba45ebb504766c892c8577", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "33537f84be7f44bf8161da8274f3423f", async() => {
                 BeginContext(2430, 51, true);
                 WriteLiteral("<i class=\"fa fa-calendar-o\"></i> 21 Thang 12 , 2018");
                 EndContext();
@@ -208,9 +208,9 @@ using WebOnline.Models;
             WriteLiteral("<a href=\"post.html\"><i class=\"fa fa-comment-o\"></i> 0 bình luận</a></p>\r\n                    <div class=\"image\">");
             EndContext();
             BeginContext(2597, 126, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c4f6fba740944bab5903f5e90ac1618", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50b65b7dba0f4ca2a30701db6eeedfc3", async() => {
                 BeginContext(2643, 76, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5cb6ebf7e6ca42a08ea8df1744f8bbce", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a0abd311a0bb48f4ac5e912383485970", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -248,7 +248,7 @@ using WebOnline.Models;
                     <p class=""read-more"">");
             EndContext();
             BeginContext(2998, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "266cc7431584436cb735692c433907ff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5aab8701e734d5d895610e470a8f625", async() => {
                 BeginContext(3068, 8, true);
                 WriteLiteral("Xem tiếp");
                 EndContext();
@@ -294,7 +294,7 @@ using WebOnline.Models;
                             <li>");
             EndContext();
             BeginContext(4072, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3bf92266b022400391839a01ac1264fa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "864797d8fb024c1ea4c1eb6763b55655", async() => {
                 BeginContext(4133, 15, true);
                 WriteLiteral("Review mỹ phẩm ");
                 EndContext();
@@ -319,7 +319,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                            <li>");
             EndContext();
             BeginContext(4191, 71, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "941683071a2942d98184d26c7af338da", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b0d8e7fdc9ad452ca22116137f205f1a", async() => {
                 BeginContext(4252, 6, true);
                 WriteLiteral("Makeup");
                 EndContext();
@@ -344,7 +344,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                            <li>");
             EndContext();
             BeginContext(4301, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd6f52889d8c467d8f0e6bb7a2f4bb59", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26558b78a7c64e9da1ac53131d47fe21", async() => {
                 BeginContext(4369, 8, true);
                 WriteLiteral("Skincare");
                 EndContext();
@@ -369,7 +369,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n                <!-- /.col-lg-3-->\r\n                <!-- *** BLOG MENU END ***-->\r\n                <div class=\"banner\"><a href=\"#\">");
             EndContext();
             BeginContext(4602, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4939f5597e074603869d0ff6ceedb774", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "e4f9a8c43342400bb6de004ed4b46aa6", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

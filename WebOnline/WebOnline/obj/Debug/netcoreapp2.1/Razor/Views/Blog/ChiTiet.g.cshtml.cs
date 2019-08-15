@@ -94,7 +94,7 @@ using WebOnline.Models;
             WriteLiteral("m khảo cách sử dụng kem che khuyết điểm dạng thỏi cùng Obaju nhé!</p>\r\n                    <div id=\"post-content\">\r\n\r\n                        <p>");
             EndContext();
             BeginContext(1263, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "baa5e25cef9f4def8f70f828e24e59be", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "015c5541d66b4f2d82f0733c14ecd0db", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -119,7 +119,7 @@ using WebOnline.Models;
                             <p>");
             EndContext();
             BeginContext(1866, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b66c4af359674fe7a9f727a852bc8138", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "0aa0c2fddfdf4c769e920e877d946f26", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -145,7 +145,7 @@ using WebOnline.Models;
                             <p>");
             EndContext();
             BeginContext(2795, 76, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3c1848b952d24301af0d0b8ab06d51a7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "42e7741ae346402392f256d8e338f532", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -187,7 +187,7 @@ using WebOnline.Models;
             WriteLiteral(" <ul class=\"nav flex-column nav-pills\">\r\n                            <li>");
             EndContext();
             BeginContext(3968, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "edb5c66f7dcc407c99938728abf70f6d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "73d3979bf02341ebb840221f98f04ae1", async() => {
                 BeginContext(4029, 15, true);
                 WriteLiteral("Review mỹ phẩm ");
                 EndContext();
@@ -212,7 +212,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                            <li>");
             EndContext();
             BeginContext(4087, 71, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23191fd03f6944febd80958274ac2777", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44393ecebbc14e4b8e89ae24447be71d", async() => {
                 BeginContext(4148, 6, true);
                 WriteLiteral("Makeup");
                 EndContext();
@@ -237,7 +237,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                            <li>");
             EndContext();
             BeginContext(4197, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69fb0d95c778448198d355a1534315ac", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f362f32845da4675b73b2b30c9053913", async() => {
                 BeginContext(4265, 8, true);
                 WriteLiteral("Skincare");
                 EndContext();
@@ -262,7 +262,7 @@ using WebOnline.Models;
             WriteLiteral("</li>\r\n                        </ul>\r\n                    </div>\r\n                </div>\r\n                <!-- /.col-lg-3-->\r\n                <!-- *** BLOG MENU END ***-->\r\n                <div class=\"banner\"><a href=\"#\">");
             EndContext();
             BeginContext(4498, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "25818188cc7d42d69e18447cc51ad429", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "003b46a1be6a42f99fed3f819678c92d", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

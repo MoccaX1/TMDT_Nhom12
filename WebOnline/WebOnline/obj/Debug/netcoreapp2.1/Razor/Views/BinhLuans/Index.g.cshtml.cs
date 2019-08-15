@@ -211,7 +211,7 @@ using WebOnline.Models;
             WriteLiteral("</td>\r\n                            <td>");
             EndContext();
             BeginContext(2009, 56, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3b71c68269bd4377bc77b0854ed2aa0a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "29fa67592b6e4fb88d74a656bc7df344", async() => {
                 BeginContext(2058, 3, true);
                 WriteLiteral("Xóa");
                 EndContext();

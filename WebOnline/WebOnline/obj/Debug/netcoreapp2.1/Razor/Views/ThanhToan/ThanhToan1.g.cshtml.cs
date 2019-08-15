@@ -115,7 +115,7 @@ using WebOnline.Models;
             WriteLiteral("                    <h1>Hóa đơn của bạn</h1>\r\n                    <div class=\"nav flex-column flex-sm-row nav-pills\"><a href=\"#\" class=\"nav-link flex-sm-fill text-sm-center\"> <i class=\"fa fa-map-marker\">                  </i>Thông tin giao hàng</a>");
             EndContext();
             BeginContext(1370, 167, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7602397668a4442ebd849f208cf08c5f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ec5084e1bf4b44548941f3454af0cab1", async() => {
                 BeginContext(1471, 62, true);
                 WriteLiteral(" <i class=\"fa fa-eye\">                     </i>Hóa đơn của bạn");
                 EndContext();
@@ -151,7 +151,7 @@ using WebOnline.Models;
             WriteLiteral("                        ");
             EndContext();
             BeginContext(1757, 13841, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dbe33a09571d4ba18d414b27c95e10f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ecd4633479ce4c799197f600e7f76ad4", async() => {
                 BeginContext(1825, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();
@@ -338,7 +338,7 @@ WriteAttributeValue("", 3527, kh.DienThoai, 3527, 13, false);
                 WriteLiteral("                                                    <tr>\r\n                                                        <td><a href=\"#\">");
                 EndContext();
                 BeginContext(4690, 62, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "105e9fd1af53401d84cb2903d87a3e9b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b19f3f98f91d4d018e8f8c6a05d8a0b4", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -468,7 +468,7 @@ AddHtmlAttributeValue("", 4714, item.Hinh, 4714, 10, false);
                                 ");
                 EndContext();
                 BeginContext(7269, 149, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "12eec8cdfb8a4795a748651d97ecba18", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64256b5d81be4063a8aa74fa771ca42e", async() => {
                     BeginContext(7352, 62, true);
                     WriteLiteral("<i class=\"fa fa-chevron-left\"></i>Quay lại thông tin giao hàng");
                     EndContext();
@@ -519,7 +519,7 @@ WriteAttributeValue("", 7716, Url.Action("checkout","Paypal"), 7716, 32, false);
                 WriteLiteral("ible;\"><span class=\"paypal-button-text\" style=\"display: inline-block; visibility: visible;\"> Checkout</span></a>\r\n                                    ");
                 EndContext();
                 BeginContext(15067, 150, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9a9ff18c33fe44d5af2a19db021b32a7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2ce769879a2c4af892228f56a72dc1b7", async() => {
                     BeginContext(15118, 95, true);
                     WriteLiteral("<button type=\"submit\" class=\"btn btn-primary\" onclick=\"myFunction()\">Xác nhận đặt hàng</button>");
                     EndContext();
@@ -598,7 +598,7 @@ WriteAttributeValue("", 7716, Url.Action("checkout","Paypal"), 7716, 32, false);
             WriteLiteral("                        <div class=\"alert alert-danger\" style=\"text-align:center\"> ");
             EndContext();
             BeginContext(15791, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c10c3ed2123f4a3c90d35491a4dababa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a7e0402d3b8b4e8aae0fcf256c2f6334", async() => {
                 BeginContext(15842, 39, true);
                 WriteLiteral("Bạn cần đăng nhập để tiếp tục mua hàng ");
                 EndContext();
@@ -625,7 +625,7 @@ WriteAttributeValue("", 7716, Url.Action("checkout","Paypal"), 7716, 32, false);
             WriteLiteral("                        <div class=\"box-footer d-flex justify-content-between\">\r\n                            ");
             EndContext();
             BeginContext(16004, 136, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c012e7aef654f54a1dedfd182f156f5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b917a07b2eff42f29132cbf93b87013c", async() => {
                 BeginContext(16085, 51, true);
                 WriteLiteral("<i class=\"fa fa-chevron-left\"></i>Quay lại giỏ hàng");
                 EndContext();

@@ -194,7 +194,7 @@ using WebOnline.Models;
             WriteLiteral("\r\n                                </td>\r\n                                <td>\r\n                                    ");
             EndContext();
             BeginContext(2719, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b630cee2d9d41a48715dfa0d0359122", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3df0b3e42985452b96450c68e705397d", async() => {
                 BeginContext(2766, 8, true);
                 WriteLiteral("Cập nhật");
                 EndContext();
@@ -229,7 +229,7 @@ using WebOnline.Models;
             WriteLiteral("\r\n                                </td>\r\n                                <td>\r\n                                    ");
             EndContext();
             BeginContext(2893, 56, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b68349be1fd4935a118a179e7d1e501", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4cad29f81a094483b26811b95b73289b", async() => {
                 BeginContext(2942, 3, true);
                 WriteLiteral("Xóa");
                 EndContext();
@@ -282,7 +282,7 @@ using WebOnline.Models;
             WriteLiteral(" VNĐ</b></pre>\r\n            </div>\r\n            <!-- /.panel-body -->\r\n        </div>\r\n        <!-- /.panel -->\r\n    </div>\r\n    <!-- /.col-lg-12 -->\r\n</div>\r\n<!-- /.row -->\r\n");
             EndContext();
             BeginContext(3399, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99b61a4b61e24a5db51fc2c5487229e6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13937d6d1105435bafa04ae8f5cc21cd", async() => {
                 BeginContext(3446, 7, true);
                 WriteLiteral("Quay về");
                 EndContext();

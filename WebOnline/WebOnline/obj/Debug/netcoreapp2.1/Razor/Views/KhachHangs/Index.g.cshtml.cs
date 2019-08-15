@@ -66,7 +66,7 @@ using WebOnline.Models;
             WriteLiteral("<div class=\"row\">\r\n    <div class=\"col-lg-12\">\r\n        <h1 class=\"page-header\">Khách hàng</h1>\r\n    </div>\r\n    <!-- /.col-lg-12 -->\r\n</div>\r\n<!-- /.row -->\r\n<div class=\"row\">\r\n    <div class=\"col-lg-12\">\r\n        <p>\r\n            ");
             EndContext();
             BeginContext(392, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ccabb5c6a71430db64c1450d61d0d2c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "242b30c7b9184e20bf6575112debafbd", async() => {
                 BeginContext(415, 8, true);
                 WriteLiteral("Thêm mới");
                 EndContext();
@@ -322,7 +322,7 @@ using WebOnline.Models;
             WriteLiteral("                            <td>");
             EndContext();
             BeginContext(3080, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ecfedff34fbc4a139ae1142ef0cba34f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2ba84743ec324814b62525bdea215b55", async() => {
                 BeginContext(3127, 8, true);
                 WriteLiteral("Cập nhật");
                 EndContext();
@@ -357,7 +357,7 @@ using WebOnline.Models;
             WriteLiteral("</td>\r\n                            <td>");
             EndContext();
             BeginContext(3178, 56, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63c8a44f5c2e4c2c982dc508d5bdfce8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d8a15facd0d34e0684b36e9cd299050c", async() => {
                 BeginContext(3227, 3, true);
                 WriteLiteral("Xóa");
                 EndContext();
